@@ -1,0 +1,25 @@
+{
+    "groupSize": 4,
+    "location": "San Francisco, CA, USA",
+    "checkIn": "2024-05-01",
+    "checkOut": "2024-05-07",
+    "budget": {
+        "min": 200,
+        "max": 500
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "amenities": [
+        "Wifi",
+        "Kitchen",
+        "Washer",
+        "Dryer",
+        "Air conditioning"
+    ],
+    "vibes": [
+        "Modern",
+        "Clean",
+        "Quiet"
+    ],
+    "walkabilityImportance": 8
+} 
